@@ -1,6 +1,6 @@
 # Private-Key-Calc
 
-This is a simple C program that can be used to save time when calulating a private key for an assymetric encryption system.
+This is a simple C program that can be used to calculate possible private keys for an assymetric encryption system.
 
 ## Usage
 
